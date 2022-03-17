@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 void positive_or_negative(int i);
-int largest_number(int a, int b, int c);l
+int largest_number(int a, int b, int c);
 int conver_day(int month, int day);
 #endif /*MAIN_H*/
